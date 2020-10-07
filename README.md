@@ -1,5 +1,5 @@
 # Distributed Job Scheduling - Distributed System Project
-A project related to the Distributed Systems exam at Politecnico di Milano about "Distributed Job Scheduling". 
+A project about "Distributed Job Scheduling" related to the Distributed Systems exam at Politecnico di Milano. 
 ***
 The project description provided by the professor is the following:
 
